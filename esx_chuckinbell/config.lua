@@ -50,15 +50,7 @@ Config.cluckinbellStations = {
 
 	AuthorizedVehicles = {
 
-		{ name = 'lazer',  label = 'Jet' },
-		{ name = 'hydra',   label = 'Hydra' },
-		{ name = 'khanjali',      label = 'Tank' },
-		{ name = 'mesa3',   label = 'terepjaro' },                
-		{ name = 'brickade',   label = 'kamion majdnem' },
-		{ name = 'spirit',       label = 'hatalmas repulo' },
-                { name = 'savage',       label = 'helikopter' },
-                { name = 'stallion',       label = 'nagyheli' },
-                { name = 'p1',       label = 'McLaren' },
+		{ name = '',  label = '' },
   },
 
    
